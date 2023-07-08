@@ -1,0 +1,29 @@
+.nom {
+    color: deeppink;
+}
+
+.header {
+    display:flex;
+    gap: 75px;
+}
+
+.textc {
+    color: blue;
+    display: flex;
+}
+
+.prefooter {
+    color: darkolivegreen;
+    display: flex;
+    gap: 50px;
+}
+
+.footer {
+    height: 100px;
+    background-color: red;
+    gap: 10px;
+    justify-content: space-between;
+    border-bottom: solid gray;
+    display: flex;
+    
+}
